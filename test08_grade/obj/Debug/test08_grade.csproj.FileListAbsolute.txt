@@ -1,0 +1,16 @@
+C:\Users\Multi12\Documents\SharpDevelop Projects\test08_grade\bin\Debug\test08_grade.exe.config
+C:\Users\Multi12\Documents\SharpDevelop Projects\test08_grade\bin\Debug\test08_grade.exe
+C:\Users\Multi12\Documents\SharpDevelop Projects\test08_grade\bin\Debug\test08_grade.pdb
+C:\Users\Multi12\Documents\SharpDevelop Projects\test08_grade\obj\Debug\test08_grade.csprojResolveAssemblyReference.cache
+C:\Users\Multi12\Documents\SharpDevelop Projects\test08_grade\obj\Debug\test08_grade.MainForm.resources
+C:\Users\Multi12\Documents\SharpDevelop Projects\test08_grade\obj\Debug\test08_grade.csproj.GenerateResource.Cache
+C:\Users\Multi12\Documents\SharpDevelop Projects\test08_grade\obj\Debug\test08_grade.exe
+C:\Users\Multi12\Documents\SharpDevelop Projects\test08_grade\obj\Debug\test08_grade.pdb
+E:\study\59\C#\c# 59_02_08\test08_grade\bin\Debug\test08_grade.exe.config
+E:\study\59\C#\c# 59_02_08\test08_grade\obj\Debug\test08_grade.exe
+E:\study\59\C#\c# 59_02_08\test08_grade\obj\Debug\test08_grade.pdb
+E:\study\59\C#\c# 59_02_08\test08_grade\bin\Debug\test08_grade.exe
+E:\study\59\C#\c# 59_02_08\test08_grade\bin\Debug\test08_grade.pdb
+E:\study\59\C#\c# 59_02_08\test08_grade\obj\Debug\test08_grade.csprojResolveAssemblyReference.cache
+E:\study\59\C#\c# 59_02_08\test08_grade\obj\Debug\test08_grade.MainForm.resources
+E:\study\59\C#\c# 59_02_08\test08_grade\obj\Debug\test08_grade.csproj.GenerateResource.Cache
