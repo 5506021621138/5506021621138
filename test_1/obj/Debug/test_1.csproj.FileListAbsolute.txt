@@ -1,0 +1,16 @@
+G:\New folder (3)\test_1\bin\Debug\test_1.exe.config
+G:\New folder (3)\test_1\bin\Debug\test_1.exe
+G:\New folder (3)\test_1\bin\Debug\test_1.pdb
+G:\New folder (3)\test_1\obj\Debug\test_1.csprojResolveAssemblyReference.cache
+G:\New folder (3)\test_1\obj\Debug\test_1.MainForm.resources
+G:\New folder (3)\test_1\obj\Debug\test_1.csproj.GenerateResource.Cache
+G:\New folder (3)\test_1\obj\Debug\test_1.exe
+G:\New folder (3)\test_1\obj\Debug\test_1.pdb
+E:\study\59\C#\c# 01-02-59\test_1\bin\Debug\test_1.exe.config
+E:\study\59\C#\c# 01-02-59\test_1\obj\Debug\test_1.exe
+E:\study\59\C#\c# 01-02-59\test_1\obj\Debug\test_1.pdb
+E:\study\59\C#\c# 01-02-59\test_1\bin\Debug\test_1.exe
+E:\study\59\C#\c# 01-02-59\test_1\bin\Debug\test_1.pdb
+E:\study\59\C#\c# 01-02-59\test_1\obj\Debug\test_1.csprojResolveAssemblyReference.cache
+E:\study\59\C#\c# 01-02-59\test_1\obj\Debug\test_1.MainForm.resources
+E:\study\59\C#\c# 01-02-59\test_1\obj\Debug\test_1.csproj.GenerateResource.Cache
