@@ -1,0 +1,8 @@
+E:\study\59\C#\c# 59_02_29\shop\shop\bin\Debug\shop.exe
+E:\study\59\C#\c# 59_02_29\shop\shop\bin\Debug\shop.pdb
+E:\study\59\C#\c# 59_02_29\shop\shop\obj\x86\Debug\shop.Form1.resources
+E:\study\59\C#\c# 59_02_29\shop\shop\obj\x86\Debug\shop.Properties.Resources.resources
+E:\study\59\C#\c# 59_02_29\shop\shop\obj\x86\Debug\shop.csproj.GenerateResource.Cache
+E:\study\59\C#\c# 59_02_29\shop\shop\obj\x86\Debug\shop.exe
+E:\study\59\C#\c# 59_02_29\shop\shop\obj\x86\Debug\shop.pdb
+E:\study\59\C#\c# 59_02_29\shop\shop\obj\x86\Debug\shop.csprojResolveAssemblyReference.cache
